@@ -1,2 +1,2 @@
 #Example repository
-Example
+Example is new
